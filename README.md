@@ -1,2 +1,2 @@
 # TimeAnalysis
-Price prediction algorithm to predict the prices of pototoes in the state of maharashtra in the upcoming years using time series analysis
+A machine learning model that uses time analysis to predict future prices of potatoes in Mumbai. The data was web scraped from official Govt. of India website using Python
